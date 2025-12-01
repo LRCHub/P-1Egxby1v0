@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "さらば純情 (album ver.)",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:03:24.152344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さらば純情",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_さらば純情_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さらば純情",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_さらば純情_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さらば純情 album ver.",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/03_さらば純情_album_ver._Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さらば純情 album ver.",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/04_さらば純情_album_ver._椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さらば純情 (album ver.)",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/05_さらば純情_(album_ver.)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さらば純情 (album ver.)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_さらば純情_(album_ver.)_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さらば純情",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_さらば純情_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さらば純情",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_さらば純情_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "さらば純情 album ver.",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_さらば純情_album_ver._椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "さらば純情 - 8期生・9期生・10期生",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_さらば純情_-_8期生・9期生・10期生_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "さらば純情",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_さらば純情_椎名_林檎.txt"
+    }
+  ]
+}
